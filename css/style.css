@@ -338,7 +338,7 @@ form button:hover {
 footer {
     background-color: hsl(216, 53%, 9%);
     color: hsl(0, 0%, 100%);
-    padding: 6rem 3rem;
+    padding: 6rem  3rem 2rem 3rem;
 }
 
 .about {
@@ -387,6 +387,9 @@ footer a{
 .fa-twitter {
     padding-left: 10px;
     padding-right: 10px;
+}
+.attribution{
+    padding-top: 1.5rem;
 }
 
 @media(max-width: 475px) {
