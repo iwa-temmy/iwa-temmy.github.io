@@ -265,7 +265,7 @@ h1 {
 }
 
 .name {
-    padding: 0.1rem 0.5rem;
+    padding: 0.2rem 0.5rem;
 }
 
 .name span {
@@ -501,7 +501,9 @@ footer a{
     .quotes {
         left: 45px;
     }
-
+    .name {
+        padding: 0.2rem 0.5rem;
+    }
     .newsletter .container {
         width: 63%;
         margin-bottom: -50px;
