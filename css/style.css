@@ -211,7 +211,7 @@ h1 {
 
 .underline {
     display: inline-block;
-    width: 30%;
+    width: 148px;
     padding: 1.5rem 0 0.3rem 0;
     color: hsl(176, 68%, 64%);
     border-bottom: 2px solid hsl(176, 68%, 64%);
@@ -486,7 +486,7 @@ footer a{
         text-align: left;
     }
     .underline{
-        width: 45%;
+        width: 128px;
     }
     .testimony {
         width: 90%;
