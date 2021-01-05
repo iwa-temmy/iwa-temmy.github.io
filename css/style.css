@@ -60,7 +60,7 @@ a:hover {
     width: 100%;
     line-height: 1.4;
     background-color: hsl(217, 28%, 15%);
-    padding-bottom: 1.3rem;
+    padding-bottom: 1.8rem;
 }
 
 .intro-image {
@@ -265,7 +265,7 @@ h1 {
 }
 
 .name {
-    padding: 0 0.5rem;
+    padding: 0.1rem 0.5rem;
 }
 
 .name span {
